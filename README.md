@@ -101,3 +101,12 @@ Contribute to Open Source Projects:
 Contribute to existing open source DevOps projects to gain more experience and visibility.
 
 By following these steps, you'll build a strong foundation in DevOps using your Ubuntu VM, GitHub, and other essential tools.
+new line
+new line
+new line
+new line
+new line
+new line
+new line
+new line
+new line
